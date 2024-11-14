@@ -1,0 +1,1 @@
+web: StudentMarks.wsgi
